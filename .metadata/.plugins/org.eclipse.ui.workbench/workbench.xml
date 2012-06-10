@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="64" version="2.0">
+<workbenchAdvisor/>
+<mruList>
+<file factoryID="org.eclipse.atf.mozilla.ide.ui.browser.memento" id="org.eclipse.atf.mozilla.ide.ui.MozBrowserEditor" name="http://localhost/symfony/web/addressBook/viewLimit" tooltip="http://localhost/symfony/web/addressBook/viewLimit">
+<persistable url="http://localhost/symfony/web/addressBook/viewLimit"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="index.php" tooltip="cakephp/app/index.php">
+<persistable path="/cakephp/app/index.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="routes.php" tooltip="cakephp/app/Config/routes.php">
+<persistable path="/cakephp/app/Config/routes.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="actions.class.php" tooltip="symfony/apps/frontend/modules/hello/actions/actions.class.php">
+<persistable path="/symfony/apps/frontend/modules/hello/actions/actions.class.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="symfony" tooltip="symfony/symfony">
+<persistable path="/symfony/symfony"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="config_autoload.yml.php" tooltip="symfony/cache/frontend/prod/config/config_autoload.yml.php">
+<persistable path="/symfony/cache/frontend/prod/config/config_autoload.yml.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="config_app.yml.php" tooltip="symfony/cache/frontend/prod/config/config_app.yml.php">
+<persistable path="/symfony/cache/frontend/prod/config/config_app.yml.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="layout.php" tooltip="symfony/apps/frontend/templates/layout.php">
+<persistable path="/symfony/apps/frontend/templates/layout.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="myUser.class.php" tooltip="symfony/apps/frontend/lib/myUser.class.php">
+<persistable path="/symfony/apps/frontend/lib/myUser.class.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="frontend_dev.php" tooltip="sf_sandbox/web/frontend_dev.php">
+<persistable path="/sf_sandbox/web/frontend_dev.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="index.php" tooltip="sf_sandbox/web/index.php">
+<persistable path="/sf_sandbox/web/index.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="index.php" tooltip="symfony/web/index.php">
+<persistable path="/symfony/web/index.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="cache.yml" tooltip="symfony/apps/frontend/config/cache.yml">
+<persistable path="/symfony/apps/frontend/config/cache.yml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="app.yml" tooltip="symfony/apps/frontend/config/app.yml">
+<persistable path="/symfony/apps/frontend/config/app.yml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="actions.class.php" tooltip="sf_sandbox/lib/vendor/symfony/lib/task/generator/skeleton/module/module/actions/actions.class.php">
+<persistable path="/sf_sandbox/lib/vendor/symfony/lib/task/generator/skeleton/module/module/actions/actions.class.php"/>
+</file>
+</mruList>
+</workbench>

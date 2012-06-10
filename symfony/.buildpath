@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="apps/frontend/config"/>
+	<buildpathentry kind="src" path="apps/frontend/lib"/>
+	<buildpathentry kind="src" path="apps/frontend/modules/addressBook/actions"/>
+	<buildpathentry kind="src" path="apps/frontend/modules/addressBook/templates"/>
+	<buildpathentry kind="src" path="apps/frontend/modules/hello/actions"/>
+	<buildpathentry kind="src" path="apps/frontend/modules/hello/templates"/>
+	<buildpathentry kind="src" path="apps/frontend/templates"/>
+	<buildpathentry kind="src" path="cache/frontend/prod/config"/>
+	<buildpathentry kind="src" path="config"/>
+	<buildpathentry kind="src" path="lib/filter/doctrine"/>
+	<buildpathentry kind="src" path="lib/form"/>
+	<buildpathentry kind="src" path="lib/model/doctrine"/>
+	<buildpathentry kind="src" path="test/bootstrap"/>
+	<buildpathentry kind="src" path="test/functional/frontend"/>
+	<buildpathentry kind="src" path="web"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
